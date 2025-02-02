@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @Nabilkarren
 - 👀 I’m interested in UX / UI Design and code
-- 🌱 I’m currently learning about website development
+- 🌱 I’m currently learning about website development using ReactJS and NextJS
 
 <!---
 Nabilkarren/Nabilkarren is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
